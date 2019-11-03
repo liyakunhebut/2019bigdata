@@ -1,1 +1,3 @@
-print("hello python")
+from math import *
+
+print(sqrt(9))
